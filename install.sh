@@ -3,7 +3,7 @@ set -euo pipefail
 
 package_root="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 skill_root="${CODEX_HOME:-${HOME}/.codex}/skills"
-skill_names=("precision-tech-talk-video" "precision-tech-talk-audio")
+skill_names=("precision-tech-talk-setup" "precision-tech-talk-video" "precision-tech-talk-audio")
 
 mkdir -p "${skill_root}"
 
