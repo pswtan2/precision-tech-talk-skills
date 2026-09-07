@@ -1,0 +1,8 @@
+interface:
+  display_name: "Precision Tech Talk · 视频成片"
+  short_description: "科技口播双语包装、B-roll转场及人声统一修复"
+  brand_color: "#28D7FF"
+  default_prompt: "使用 $precision-tech-talk-video，把我上传的科技类口播制作成统一的精密科技风成片。"
+
+policy:
+  allow_implicit_invocation: true

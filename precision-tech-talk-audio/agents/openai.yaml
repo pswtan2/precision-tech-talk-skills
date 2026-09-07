@@ -1,0 +1,8 @@
+interface:
+  display_name: "Precision Tech Talk · 声音后期"
+  short_description: "基于锁定成片分析并生成科技口播BGM、音效与叙事混音"
+  brand_color: "#7C5CFF"
+  default_prompt: "使用 $precision-tech-talk-audio，为我上传的已剪辑科技口播成片设计并生成 BGM 与音效。"
+
+policy:
+  allow_implicit_invocation: true
